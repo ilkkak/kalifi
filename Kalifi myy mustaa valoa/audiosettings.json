@@ -150,7 +150,6 @@
             "in": {
                 "resourceMeta": {
                     "attributes": {
-                        "playbackSetupData": "last.last.last"
                     },
                     "hasNativeEditorSupport": false,
                     "id": "MS Basic",
