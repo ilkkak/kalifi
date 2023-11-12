@@ -41438,8 +41438,11 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           </voice>
@@ -41513,8 +41516,11 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           </voice>
@@ -41588,8 +41594,11 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           </voice>
@@ -41887,8 +41896,11 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           </voice>
@@ -41962,8 +41974,11 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           </voice>
@@ -42037,8 +42052,11 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           </voice>
@@ -42112,8 +42130,11 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           </voice>
@@ -50446,8 +50467,11 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           </voice>
@@ -50613,8 +50637,11 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           </voice>
@@ -50714,8 +50741,11 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           </voice>
@@ -50830,8 +50860,11 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           </voice>
